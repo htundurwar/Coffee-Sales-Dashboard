@@ -18,3 +18,4 @@ DAX (Data Analysis Expressions) – for calculated measures and KPIs.
 Identified seasonal sales trends and high-revenue coffee categories.
 Discovered top regions contributing to overall sales performance.
 Improved decision-making through clear visualization of KPIs and business metrics.
+<img width="1059" height="596" alt="Dashboard Power Bi" src="https://github.com/user-attachments/assets/20844cce-2c64-4b0d-a770-88056f80e5c9" />
